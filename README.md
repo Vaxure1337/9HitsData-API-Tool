@@ -1,6 +1,7 @@
 # 9HitsData-API-Tool
 9HitsData is a tool which you include in your program to help you
 # How to use?
+
 `LiveExchange - return live Exchange [int]`
 `RunningsSessions - return Runnings Sessions [int]`
 `TotalUsers - return Total Users [int]`
